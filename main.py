@@ -14,5 +14,10 @@ async def root():
 
 @app.get("/{item_name}")
 async def read_item(item_name):
-    output_dict = [x for x in ministers_data if x["name"] == item_name]
+    # with open("ministers1.json", "r", encoding="utf-8") as file:
+    #     ministers_data = json.load(file)
+    output_dict = [x for x in ministers_data if x["name"].lower() == item_name.lower()]
+
+    if not output_dict:
+        raise HTTPException(status_code=404, detail="Item not found")
     return output_dict
