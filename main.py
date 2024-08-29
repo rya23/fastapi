@@ -18,6 +18,6 @@ async def read_item(item_name):
     #     ministers_data = json.load(file)
     # output_dict = [x for x in ministers_data if x["name"].lower() == item_name.lower()]
 
-    if not output_dict:
+    if not ministers_data:
         raise HTTPException(status_code=404, detail="Item not found")
     return ministers_data
