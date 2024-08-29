@@ -1,0 +1,4 @@
+.venv
+model_training
+one.py
+*.pyc
