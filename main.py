@@ -9,6 +9,8 @@ app = FastAPI()
 with open("ministers1.json", "r", encoding="utf-8") as file:
     ministers_data = json.load(file)
 
+origins = ["*"]
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -16,6 +18,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 @app.get("/")
 async def root():
