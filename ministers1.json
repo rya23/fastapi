@@ -1,0 +1,1119 @@
+[
+    {
+        "name": "Narendra Modi",
+        "news": [
+            {
+                "description": "The first meeting of the Council of Ministers during Prime Minister Narendra Modi's third term was held on Wednesday (August 28) at Sushma Swaraj Bhavan in Delhi. The meeting, chaired by PM Modi, lasted around five hours and fifty minutes. During the session, the Central Cabinet for Economic Affairs approved the establishment of 12 new industrial smart cities in 9 states. Spread across 10 states and aligned with six major corridors, these 12 industrial smart cities are expected to significantly boost manufacturing. Under the National Industrial Corridor Development Program, the government will invest \u20b928,602 crore in these projects. According to Union Minister Ashwini Vaishnaw, these industrial smart cities will form a grand network along the Golden Quadrilateral, creating 1 million direct and 3 million indirect jobs. These projects are expected to generate an investment potential of \u20b91.52 lakh crore, with a target of achieving \u20b92 lakh crore in exports by 2030. The projects are anticipated to be completed by 2027, with five located near the Amritsar-Kolkata Industrial Corridor and two near the Delhi-Mumbai Industrial Corridor. One project each will be near the Visakhapatnam-Chennai, Hyderabad-Bengaluru, Hyderabad-Nagpur, and Chennai-Bengaluru Industrial Corridors. The 12th smart city will be in Haryana, though its exact location has not been disclosed. Notably, the Central Cabinet has approved eight infrastructure projects worth \u20b92 lakh crore in the past three months. During the meeting, PM Modi reviewed the progress of the government's first 100-day agenda, with officials presenting reports on the work done. The focus was on schemes related to women, the poor, youth, and farmers. PM Modi emphasized the need for ministers and bureaucrats to focus on addressing the challenges faced by women and the underprivileged. Secretaries from various government departments attended the meeting. PM Modi urged quick responses on social media and emphasized maintaining the same pace of work seen over the last decade for the next five years. He promoted the slogan \"Perform, Reform, Transform, and Inform.\" The NDA government has set the goal of making India a developed nation by 2047 by addressing basic needs.",
+                "link": "https://news.abplive.com/videos/news/india-pm-modi-launches-slogan-perform-reform-transform-and-inform-in-first-cabinet-meeting-of-third-term-1713402",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6914394497871399
+                }
+            },
+            {
+                "description": "The 35-foot statue fell just eight months after its unveiling by prime minister Narendra Modi",
+                "link": "https://www.nationalheraldindia.com/national/maharashtra-panels-set-up-to-probe-collapse-of-shivaji-statue-build-new-one",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8474656343460083
+                }
+            },
+            {
+                "description": "Get latest articles and stories on India at LatestLY. Following a request from the Gujarat government, six columns of the Indian Army are conducting rescue operations in the worst-affected areas as the flood-like situation continues in parts of the state due to incessant rainfall.",
+                "link": "https://www.latestly.com/agency-news/india-news-gujarat-rains-indian-army-deploys-6-columns-for-rescue-operations-6223641.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8823270797729492
+                }
+            },
+            {
+                "description": "Amid protests over the collapse of the Chhatrapati Shivaji Maharaj statue in the Rajkot Fort in Sindhudurg district, the Maharashtra government has announced the establishment of a joint technical committee comprising civil engineers, experts, representatives of IITs and Navy officers to investigate its reasons.",
+                "link": "https://www.latestly.com/india/news/chhatrapati-shivaji-maharaj-statue-collapse-case-maharashtra-government-announces-formation-of-joint-technical-panel-to-probe-fall-of-shivaji-statue-in-rajkot-fort-6223610.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6355222463607788
+                }
+            },
+            {
+                "description": "Get latest articles and stories on Sports at LatestLY. On the occasion of the National Sports Day on Thursday, legendary hockey player Major Dhyan Chand's son, Olympian Ashok Kumar unveiled his father's statue in Jabalpur, Madhya Pradesh.",
+                "link": "https://www.latestly.com/agency-news/sports-news-olympian-ashok-kumar-unveils-major-dyan-chands-statue-on-national-sports-day-6223631.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.606043815612793
+                }
+            },
+            {
+                "description": "Infosys cofounder and non-executive chairman Nandan Nilekani has said that startups built on top of India\u2019s digital public infrastructure are...Infosys cofounder and non-executive chairman Nandan Nilekani has said that startups built on top of India\u2019s digital public infrastructure are valued north of $100 Bn. \u201cThe estimate is that the market value of startups on top of India's DPI is about $100 Bn,\u201d Nilekani said while speaking at the annual Global Fintech Festival 2024. He...CTA: Tap To Learn More",
+                "link": "https://inc42.com/buzz/startups-built-atop-indias-digital-public-infra-pegged-at-100-bn-nandan-nilekani/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5560110211372375
+                }
+            },
+            {
+                "description": "Vadodara: As relentless rains continue to hit Gujarat, causing severe flooding in Vadodara, the Indian Army joined forces of rescue operations, providing ...",
+                "link": "https://english.mathrubhumi.com/news/india/vadodara-floods-indian-army-rescue-operations-1.9854363",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5645195841789246
+                }
+            },
+            {
+                "description": "Heavy rains have wreaked havoc in Gujarat, leading to 28 fatalities and the evacuation of nearly 18,000 people. The IMD has issued red alerts for multiple districts, predicting more extreme weather.",
+                "link": "https://www.indiatodayne.in/national/story/heavy-rains-claim-28-lives-in-gujarat-thousands-evacuated-1081442-2024-08-29",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.8768562078475952
+                }
+            }
+        ]
+    },
+    {
+        "name": "Rajnath Singh",
+        "news": [
+            {
+                "description": "The nuclear-powered ballistic missile submarine will be commissioned at a ship-building centre in the presence of Defence Minister Rajnath Singh and other security and military officials.",
+                "link": "https://www.news9live.com/india/india-fortifies-its-nuclear-triad-ins-arighat-to-be-commissioned-today-key-features-2674571",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9331433773040771
+                }
+            },
+            {
+                "description": "A shortlist of the biggest headlines, recommended stories, and a special collection of news items that you should check out.",
+                "link": "https://www.hindustantimes.com/india-news/morning-briefing-india-to-commission-2nd-nuclear-submarine-today-kangana-ranauts-mess-dig-at-rahul-gandhi-and-more-101724900200697.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7717293500900269
+                }
+            },
+            {
+                "description": "As part of his day-long visit, defence minister Rajnath Singh is scheduled to arrive in Visakhapatnam on August 29 (Thursday).",
+                "link": "https://www.thehansindia.com/andhra-pradesh/rajnath-to-attend-a-programme-at-naval-base-today-903045",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9196274280548096
+                }
+            },
+            {
+                "description": "Latest news updates: Catch all the news developments from around the world here",
+                "link": "https://www.business-standard.com/india-news/live-news-updates-telegram-gujarat-rain-ins-arighat-defence-minister-rajnath-singh-kerala-hema-committee-pune-porsche-124082900102_1.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.807371199131012
+                }
+            },
+            {
+                "description": "With commissioning of INS Arighat, India will have a credible nuclear deterrent and strong second strike capability.",
+                "link": "https://www.hindustantimes.com/india-news/indias-nuclear-missile-submarine-to-be-commissioned-by-rajnath-singh-today-101724896617152.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5232782959938049
+                }
+            },
+            {
+                "description": "India's 2nd nuclear missile submarine to be commissioned by Rajnath Singh today Hindustan TimesIn big step towards nuke triad, India set to commission 2nd nuclear-sub today The Times of IndiaIndia likely to commission second nuclear submarine INS Arighat on Thursday ANI NewsFirstUp: India to commission second nuclear submarine, Chilean foreign minister in Mumbai... The news today FirstpostMorning Brief: India To Get Second Nuclear Submarine Today, Rs 70,350-Crore Reliance-Disney Merger Approved, Bangladesh Begins Freeing Islamists From Jails Swarajya",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUJaa3V4T3ZGZkNCenRmZTdTclF1Y0VDdEJzLVhoRlhHRkhoRnphWFpEWDh2dmJKeGVXbkxZMTBjV2dHUU94X2Z6ZXN6V3NBQWNLS1J1VmdBMU9sTjJxUVM4U09sSTM0NmJQeW5YMlJOMFpRWVBBcVVva3lnWDgweXB2SkVHSG5fNVB0eGVlYk5TeVRpZzlsYjRQN2tmaFVYRk5fc2ZkS3FXM2sxa055N0ZDaENPcWZ3VXNqT0cwdnhWNER3Y0ZsT3ZxQVFfVzJlSDZB0gHYAUFVX3lxTFBWT2M2N0pTY19WV04zOXBjT2JKZGM3REdsSS1jdjdUZ01kbldVZUpPUFJ3YkJna3R1TVE1R2RuOHhJWWtKbXJITnVKYVBXLXQtcDItUXpYdmczRzZpWjc3dDhnOHBCanlnSlMxX3prMTlEeXZSNldKT0xFMC1CQ3B4SmpFVW1VQ0U2Sy1nOW00WTdYWWMybHpHMWFrUzhOT1RSYkdfVjVBYmJRal9pTmoxS1lQQzlDQk5LSUZyeU9NaC0zVzFaSHJOYUk3YmlLUUNObUJ5aksxag?oc=5",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7899581789970398
+                }
+            },
+            {
+                "description": "India is poised to commission its second nuclear-powered submarine, INS Arighat, equipped with nuclear-tipped ballistic missiles. This 112-meter vessel will fortify the nation's strategic deterrence by joining INS Arihant. Defence Minister Rajnath Singh will oversee the ceremony in Visakhapatnam. This move marks a pivotal advancement in India's maritime security framework.",
+                "link": "https://timesofindia.indiatimes.com/india/in-big-step-towards-nuke-triad-india-set-to-commission-2nd-n-sub-today/articleshow/112879589.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5156500935554504
+                }
+            },
+            {
+                "description": "In big step towards nuke triad, India set to commission 2nd nuclear-sub today The Times of IndiaIndia's 2nd nuclear missile submarine to be commissioned by Rajnath Singh today Hindustan TimesIndia likely to commission second nuclear submarine INS Arighat on Thursday ANI NewsFirstUp: India to commission second nuclear submarine, Chilean foreign minister in Mumbai... The news today FirstpostINS Arighat, India's 2nd nuclear-powered submarine, to be commissioned tomorrow India Today",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWJJR0d6VzJ2UXgxVTNrempXZnVCNlFDMUd3OXBMNXN6eUVxVEdZRXBxT1c0MUpSSmVHZVg5dHBteGR4c1dFMHdsX2RPTzlxTDJHVkgxZVZCamlVUG9BdEVYbDhWTE1ZdXU1bXN3Q1hTdkN5bHEzTXd3c0NxUGZWM3JMbUZHZ0NUMzZnby1pZThLQ2c4WVlFeU5WUXRBNFhnN1FqWVRTZnlZRWozLW9KYk1fZkFmVE9jSmZwSVVfTzUwUzNoR3ZWTTlGTmlWQ0tHb3AxbQ?oc=5",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6353098750114441
+                }
+            },
+            {
+                "description": "India will now have two SSBNs \u2013 INS Arihant (S-2) and INS Arighat -- patrolling the high seas as a crucial part of the country\u2019s nuclear triad and second-strike capability (due to its no-first-use policy).",
+                "link": "https://www.hindustantimes.com/india-news/india-to-get-its-2nd-nuclear-submarine-101724870836535.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8081968426704407
+                }
+            }
+        ]
+    },
+    {
+        "name": "Amit Shah",
+        "news": [
+            {
+                "description": "'How dare you didi?': Mamata Banerjee's 'burn' threat to PM Modi sparks outrage The Times of IndiaDaily Briefing: Mamata Banerjee stirs another storm; President Murmu on Kolkata rape-murder; and more The Indian ExpressBengal BJP chief writes to Amit Shah against Mamata Banerjee's 'burn' remark India TodayKolkata rape-murder: Mamata Banerjee faces backlash for \u2018threatening doctors, northeast\u2019; CMs, BJP leaders hit back Hindustan Times",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0RhV01FNFFReVdOMUU2SVhwcm1WVF9KZUVuMkJVdkpKUlRHVnJ4eG5MMURBcDd5THJ1a1p2UkEwWmlrMFp3OUFLU3RTYU93Wm9aSWxCTTlVWEFsWGwwMUkxZUtUVjhrZGZaU1BVMEpyQ1hVQzlJS2prbFp1cTg2OTVMRnNJeUkzelZkaVRheThMSXJmd2p2UGdYUERiYVB6RUlKeWFLaG5xcVdyZEZFVU9qbmZQMkdPTUkybVU3YTVSSjRaZzBMUFI2WWlvVGJNcUwtbmlKbw?oc=5",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.7043070197105408
+                }
+            },
+            {
+                "description": "In a significant development former Chief Minister of Jharkhand, Champai Soren has tendered his resignation from the Jharkhand Mukti Morcha (JMM) on Wednesday evening, August 28. Soren resignation has come on expected lines as the former heavy weight of JMM is all set to join the Bharatiya Janata Party (BJP) on August 30, boosting the latter chances to perform well in the tribal dominated Kolhan region in the upcoming state assembly elections. In a letter to the JMM president, Soren has expressed his disappointment over recent developments in the party terming it the prime reason behind his decision to part ways with the party. He further has cited that there is no appropriate forum in the party to express his grief hence he is tendering his resignation from prime membership and other positions. \u0906\u091c \u091d\u093e\u0930\u0916\u0902\u0921 \u092e\u0941\u0915\u094d\u0924\u093f \u092e\u094b\u0930\u094d\u091a\u093e \u0915\u0940 \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915 \u0938\u0926\u0938\u094d\u092f\u0924\u093e \u090f\u0935\u0902 \u0938\u092d\u0940 \u092a\u0926\u094b\u0902 \u0938\u0947 \u0924\u094d\u092f\u093e\u0917-\u092a\u0924\u094d\u0930 \u0926\u093f\u092f\u093e\u0964 \u091d\u093e\u0930\u0916\u0902\u0921 \u0915\u0947 \u0906\u0926\u093f\u0935\u093e\u0938\u093f\u092f\u094b\u0902, \u092e\u0942\u0932\u0935\u093e\u0938\u093f\u092f\u094b\u0902, \u0926\u0932\u093f\u0924\u094b\u0902, \u092a\u093f\u091b\u0921\u093c\u094b\u0902 \u090f\u0935\u0902 \u0906\u092e \u0932\u094b\u0917\u094b\u0902 \u0915\u0947 \u092e\u0941\u0926\u094d\u0926\u094b\u0902 \u0915\u094b \u0932\u0947\u0915\u0930 \u0939\u092e\u093e\u0930\u093e \u0938\u0902\u0918\u0930\u094d\u0937 \u091c\u093e\u0930\u0940 \u0930\u0939\u0947\u0917\u093e\u0964 pic.twitter.com/ZpAmm2dopr \u2014 Champai Soren (@ChampaiSoren) August 28, 2024 Soren in the letter further has underscored that JMM has deviated from its path and the current working style and policies of the party has forced him to bid a goodbye. The former Chief Minister however asserted that he will continue his struggle on the issues of tribals, natives, Dalits, backward people and common masses. Soren resignation has arrived hours after the Chief Minister of Assam, Himata Biswa Sharma made startling claims that the former Chief Minister was being observed by the officials of the special branch of Jharkhand police. Read more at: Congress-JMM government of Jharkhand engaged spy behind Champai Soren; 2 detained in Delhi: Himanta Biswa Sarma...... The development attracted sharp reactions from another senior leader of the BJP, Babu Lal Marandi who claimed that there is information of state government misusing the police machinery to spy not only on opposition leaders and cabinet ministers but judges also. Marandi further demanded that the matter should be investigated by a committee headed by a sitting judge of High Court. \u0939\u0947\u092e\u0902\u0924 \u0938\u094b\u0930\u0947\u0928, \u0914\u0930\u0902\u0917\u091c\u0947\u092c \u0915\u0947 \u0928\u0915\u094d\u0936\u0947\u0915\u0926\u092e \u092a\u0930 \u091a\u0932\u0924\u0947 \u0939\u0941\u090f \u0938\u0924\u094d\u0924\u093e \u0915\u0947 \u0932\u093f\u090f \u0928\u0940\u091a\u0924\u093e \u0915\u0940 \u0938\u093e\u0930\u0940 \u092a\u0930\u093e\u0915\u093e\u0937\u094d\u0920\u093e \u092a\u093e\u0930 \u0915\u0930 \u091a\u0941\u0915\u0947 \u0939\u0948\u0902\u0964 \u0914\u0930\u0902\u0917\u091c\u0947\u092c \u0928\u0947 \u0938\u0924\u094d\u0924\u093e \u0915\u0947 \u0932\u093f\u090f \u0905\u092a\u0928\u0947 \u092a\u093f\u0924\u093e \u0936\u093e\u0939\u091c\u0939\u093e\u0902 \u0915\u094b \u0915\u0948\u0926 \u092e\u0947\u0902 \u0930\u0916\u093e \u0925\u093e\u0964 \u0920\u0940\u0915 \u0909\u0938\u0940 \u092a\u094d\u0930\u0915\u093e\u0930 \u0939\u0947\u092e\u0902\u0924 \u0938\u094b\u0930\u0947\u0928 \u092d\u0940 \u0905\u092a\u0928\u0947 \u092a\u093f\u0924\u093e\u0924\u0941\u0932\u094d\u092f \u091a\u0902\u092a\u0908 \u0938\u094b\u0930\u0947\u0928 \u091c\u0940 \u0915\u0940 \u091c\u093e\u0938\u0942\u0938\u0940 \u0915\u0930\u093e \u0915\u0947 \u0905\u092a\u0928\u0940 \u0938\u0924\u094d\u0924\u093e \u092c\u091a\u093e\u090f \u0930\u0916\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902\u0964 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0924\u094b... pic.twitter.com/HpXedNXrVt \u2014 Office of Babulal Marandi (@babulalmarandi) August 28, 2024 Notably, Himanta Biswa Sarma in a social media post on Monday announced Soren\u2019s decision to join the BJP. \u201cFormer Chief Minister of Jharkhand and a distinguished Adivasi (Janjati) leader of our country, Champai Soren, met Union Home Minister Amit Shah a short while ago, He will officially join the BJP on August 30 in Ranchi, said the Assam CM on X. It must be noted that the tribal dominated state of Jharkhand is all set to go for assembly polls in a few months\u2019 time where a tough contest is expected between the ruling alliance led by JMM and the prime opposition BJP.",
+                "link": "https://organiser.org/2024/08/29/253881/bharat/jharkhand-former-cm-champai-soren-tenders-resignation-from-jmm-set-to-join-bjp-before-crucial-state-assembly-polls/",
+                "sentiment": null
+            },
+            {
+                "description": "Assam Chief Minister Himanta Biswa Sarma criticized West Bengal counterpart Mamata Banerjee for allegedly inciting public unrest to conceal her own failures. Sarma shared a video where Banerjee warned that instability in West Bengal could affect other states, cautioning her to avoid divisive politics.",
+                "link": "https://timesofindia.indiatimes.com/city/kolkata/if-bengal-burns-controversy-cm-mamata-banerjee-faces-heat-from-bjp-cms-and-ministers/articleshow/112882193.cms",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.5430388450622559
+                }
+            },
+            {
+                "description": "Congress MLA G S Patil has sparked a major controversy with his provocative comments during a protest organised by the Ahinda Union in Gajendragad.",
+                "link": "https://www.thehansindia.com/karnataka/gadag-congress-mla-says-modi-will-face-bangladesh-like-situation-soon-903041",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.6473682522773743
+                }
+            },
+            {
+                "description": "Kolkata doctor rape-murder case live updates: Junior doctors reject Mamata's call to resume duties, CBI expected to conclude polygraph tests on ASI Anup Dutta",
+                "link": "https://www.hindustantimes.com/india-news/kolkata-doctor-rape-murder-case-live-updates-bengal-mamata-banerjee-strike-rg-kar-hospital-101724892887056.html",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.6095029711723328
+                }
+            },
+            {
+                "description": "His response came after Banerjee threatened that if Bengal burns, then Assam and Delhi too will bear the brunt.",
+                "link": "https://www.businesstoday.in/india/story/dont-show-us-your-bloodshot-eyes-himanta-biswa-sarma-on-mamata-banerjees-if-bengal-burns-remark-443408-2024-08-29",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.5545321702957153
+                }
+            },
+            {
+                "description": "Top events today: BJP to hold CEC meeting on August 29 to discuss J-K and Haryana seats. RIL announces 47th virtual AGM on the same day. Kerala govt plans all-party meeting for landslide survivors' rehabilitation.",
+                "link": "https://www.livemint.com/news/india/top-events-today-august-29-bjp-cec-meeting-j-k-seats-haryana-reliance-ind-47th-agm-wayanad-landslide-survivors-politics-11724892844207.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6321437954902649
+                }
+            },
+            {
+                "description": "The Indian Navy will commission its second nuclear submarine, INS Arighat, in Visakhapatnam today. Chile's Foreign Minister Alberto Van Klaveren is set to hold meetings with business leaders in Mumbai as part of his five-day visit to India. Here's what else will happen today",
+                "link": "https://www.firstpost.com/explainers/firstup-india-to-commission-second-nuclear-submarine-chilean-foreign-minister-in-mumbai-the-news-today-13809145.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9070252180099487
+                }
+            },
+            {
+                "description": "Get latest articles and stories on India at LatestLY. West Bengal LoP Suvendu Adhikari on Wednesday met the injured people at the hospitals who participated in the 'Nabanna Abhiyan' in Kolkata and assured all possible help.",
+                "link": "https://www.latestly.com/agency-news/india-news-west-bengal-lop-suvendu-adhikari-meets-injured-people-who-participated-in-nabanna-abhiyan-assures-all-possible-help-6223442.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8943837881088257
+                }
+            }
+        ]
+    },
+    {
+        "name": "Nitin Gadkari",
+        "news": [
+            {
+                "description": "Bhubaneswar: Union Road Transport and Highways Minister Nitin Gadkari Wednesday awarded Odisha as the best state in the country for road safety initiatives during the sixth edition of FICCI\u2019s Road Safety Conclave held in New Delhi. Pradeep Kumar Mohanty, Joint Transport Commissioner (Road Safety), received the award on behalf of the state. While conferring the [...]",
+                "link": "https://www.orissapost.com/best-state-award-to-odisha-for-road-safety-initiatives/",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.7218142747879028
+                }
+            },
+            {
+                "description": "Bhubaneswar: Odisha has been recognized as the best state in India for road safety initiatives. The award was presented by Union Minister for Road Transport and Highways, Nitin Gadkari, during the sixth edition of FICCI\u2019s Road Safety Conclave held in New Delhi. Pradeep Kumar Mohanty, Joint Transport Commissioner (Road Safety), received the award on behalf [...]",
+                "link": "https://orissadiary.com/odisha-gets-best-state-award-for-road-safety-initiatives/",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.9048742055892944
+                }
+            },
+            {
+                "description": "Need to name, shame guardians: Mantri on \u2018brats\u2019 behind wheels",
+                "link": "https://timesofindia.indiatimes.com/india/need-to-name-shame-guardians-mantri-on-brats-behind-wheels/articleshow/112877881.cms",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.6188008785247803
+                }
+            },
+            {
+                "description": "India faces a significant challenge as road accidents claim more lives than wars and militancy. Road Transport Minister Nitin Gadkari highlighted the need for regular safety audits and improved project reports to address the issue. Collaborative efforts with IITs are essential for reducing accidents, which account for a 3% GDP loss.",
+                "link": "https://economictimes.indiatimes.com/news/india/road-accidents-have-claimed-more-lives-than-wars-nitin-gadkari/articleshow/112876710.cms",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.5617693066596985
+                }
+            },
+            {
+                "description": "Miffed over \u2018inadequate\u2019 compensation, farmers alleged that their land was being forcibly acquired without their consent last week.",
+                "link": "https://www.hindustantimes.com/cities/chandigarh-news/malerkotla-farmers-clash-with-police-over-land-acquisition-101724873826911.html",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.9073253870010376
+                }
+            },
+            {
+                "description": "Residents of Uttarkashi have flagged concerns with the BRO\u2019s forest clearance application submitted to the Centre, for the widening of the Char Dham road.",
+                "link": "https://www.hindustantimes.com/india-news/locals-protest-bro-s-green-nod-for-char-dham-road-widening-project-101724870664580.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7277856469154358
+                }
+            },
+            {
+                "description": "Bhubaneswar: Odisha has been recognized as the best state in India for road safety initiatives. The award was presented by Union Minister for Road Transport and Highways, Nitin Gadkari, during the sixth edition of FICCI\u2019s Road Safety Conclave held in New Delhi. Pradeep Kumar Mohanty, Joint Transport Commissioner (Road Safety), received the award on [...]The post Odisha gets \u2018Best State Award\u2019 for road safety initiatives appeared first on Pragativadi | Odisha News, Breaking News Odisha, Latest Odisha News.",
+                "link": "https://pragativadi.com/odisha-gets-best-state-award-for-road-safety-initiatives/",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.8320486545562744
+                }
+            },
+            {
+                "description": "New Delhi/Bhubaneswar: Odisha has been recognized as the best state in the country for road safety initiatives. The state has been felicitated at the sixth edition of FICCI\u2019s Road Safety Conclave in New Delhi.The award was presented by Union Minister for Road Transport and Highways Nitin Gadkari at the conclave. Pradeep Kumar Mohanty, Joint Transport Commissioner (Road Safety), received the award on behalf of the state.Odisha's efforts in reducing road accidents have been highly appreciated, setting a benchmark for other states. Gadkari, while conferring the award, emphasized the importance of focusing on enforcement and road engineering.He acknowledged that driver training plays a crucial role in enhancing road safety. Odisha's 'SuVahak' initiative has widespread acclaim from road safety experts nationwide.The state has established four SuVahak training centers, providing state-funded training for drivers, which has become a model for zero-accident achievements, inspiring other states.In his address, the Union Minister highlighted the central government's commitment to reducing road accidents across the country. He urged all states to adopt modern technology to ensure transparency and efficiency in these measures. Additionally, he stressed the importance of maintaining proper road engineering to prevent accidents, particularly among the youth.Representing Odisha in the panel discussion, Mohanty detailed the state\u2019s innovative strategies over the years, including the implementation of the Intelligent enforcement Management System (IEMS) and 'SuVahak' programme. He emphasized the pivotal role of driver training and personality development in the state\u2019s road safety initiatives, which have also created employment opportunities through government-supported programmes.Furthermore, Mohanty provided insights into the state's initiatives such as 'Rakshak', 'Junior Rakshak', and the establishment of trauma care centers, all aimed at saving lives in road accidents.Commenting on this achievement, State Transport Commissioner Amitabh Thakur said, \"The Commerce and Transport Department, along with the State Transport Authority, is working diligently towards reducing road accidents. This award motivates us to continue our efforts. Based on the valuable suggestions from the Union Minister during the conclave, we will strive to further enhance our road safety measures.\u201d",
+                "link": "https://sambadenglish.com/latest-news/odisha-bags-best-state-award-for-road-safety-initiatives-6933811",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.9265639781951904
+                }
+            },
+            {
+                "description": "New Delhi: Union Minister Nitin Gadkari said on Wednesday that a satellite-based toll system would be introduced on the Indian highways which would ensure a seamless movement of traffic and reduce congestion. Speaking at a media event here, the Union Minister said that the satellite-based system would deduct tolls from vehicles based on the kilometres travelled and help root out instances of higher fees that result from multiple toll booths over short distances. Global Navigation Satellite System (GNSS) technology represents a major upgrade from the existing FASTag system. GNSS automatically calculates the distance travelled and deducts the appropriate toll fee. This ensures motorists pay only for the distance they have covered, leading to potential savings on every trip. The system will eliminate the need for traditional toll booths, easing traffic congestion and reducing travel time by eliminating long queues. The satellite-based system is being tested on the Bengaluru-Mysuru National Highway (NH-275) in Karnataka and the Panipat-Hisar National Highway (NH-709) in Haryana. Once approved, the GNSS toll collection system will be rolled out in phases, initially covering major highways that connect key cities. NHAI's subsidiary Indian Highways Management Company Limited (IHMCL) recently organised an international workshop to discuss the rolling out the Global Navigation Satellite System (GNSS) based Electronic Toll Collection in India. Union Minister for Road Transport and Highways Nitin Gadkari was the chief guest at the event attended by senior officials. Industry experts from the US and Europe attended the workshop and deliberated on various aspects related to the smooth implementation of the free-flow toll system based on GNSS technology in India. The current FASTag system in India is an electronic toll collection method that utilises Radio Frequency Identification (RFID) technology to streamline toll payments on highways. Introduced to alleviate traffic congestion and enhance efficiency, FASTag enables vehicles to pass through toll plazas without stopping for cash transactions. However, the GNSS technology is superior and would streamline the system further. (IANS)",
+                "link": "https://sambadenglish.com/national-international-news/satellite-based-toll-system-on-highways-to-be-rolled-out-soon-6933785",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.644829511642456
+                }
+            }
+        ]
+    },
+    {
+        "name": "Jagat Prakash Nadda",
+        "news": []
+    },
+    {
+        "name": "Shivraj Singh Chouhan",
+        "news": [
+            {
+                "description": "The agriculture ministry will implement a farmers' grievance redressal system in Krishi Bhawan, overseen by minister Shivraj Singh Chouhan. The system aims to resolve issues related to central schemes via a dedicated phone line. Each grievance will get a unique reference number for tracking, ensuring timely resolution by the concerned departments.",
+                "link": "https://timesofindia.indiatimes.com/india/govt-to-launch-farmers-grievance-redressal-helpline/articleshow/112881989.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8969159126281738
+                }
+            },
+            {
+                "description": "A similar demand was also raised by the Samyukta Kisan Morcha (SKM) which claimed that the soybean prices had dropped to a 10 year low",
+                "link": "https://www.thehindu.com/news/national/madhya-pradesh/increase-soybean-msp-to-6000quintal-demands-digvijaya-singh-seeks-pms-intervention/article68578061.ece",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.545628547668457
+                }
+            },
+            {
+                "description": "Former Jharkhand CM Champai Soren met Union Home Minister Amit Shah and is set to join the BJP, along with his son, in Ranchi on Friday. With Soren onboard, the BJP aims to attract tribal votes. Union Minister Shivraj Singh Chouhan and Assam CM Himanta Biswa Sharma will attend the event.",
+                "link": "https://economictimes.indiatimes.com/news/politics-and-nation/champai-drops-plan-to-float-party-to-join-bjp/articleshow/112846465.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8105059862136841
+                }
+            },
+            {
+                "description": "Get latest articles and stories on India at LatestLY. Union Minister George Kurian has been elected unopposed to the Rajya Sabha seat from Madhya Pradesh.",
+                "link": "https://www.latestly.com/agency-news/india-news-union-minister-george-kurian-elected-unopposed-as-rajya-sabha-member-from-madhya-pradesh-6220437.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8739843964576721
+                }
+            },
+            {
+                "description": "New Delhi [India], August 27 (ANI): Kharif crop sowing is at its advanced stage with farmers in India having sown crops across 1,065.08 lakh hectares so far this year as against 1,044.85 lakh hectares in the same period last year. On a yearly basis, the sowing is about 1.93 per cent higher, according to the [...]",
+                "link": "https://theprint.in/economy/kharif-sowing-exceeds-last-years-figures/2241012/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7689037322998047
+                }
+            }
+        ]
+    },
+    {
+        "name": "Nirmala Sitharaman",
+        "news": [
+            {
+                "description": "The project is part of the NICDP and will have a major positive impact on domestic manufacturing and employment generation.",
+                "link": "https://www.hindustantimes.com/india-news/cabinet-approves-12-new-industrial-parks-101724870666024.html",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.9459570646286011
+                }
+            },
+            {
+                "description": "He termed the Centre\u2019s nod to release funds for Polavaram as a major step towards completing the project and exuded confidence that the first phase of the project will be completed by March 2027.",
+                "link": "https://munsifdaily.com/cm-naidu-welcomes-centres-nod-to-release-rs-12157-crore-for-polavaram/",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.8216139674186707
+                }
+            },
+            {
+                "description": "Amaravati: Andhra Pradesh Chief Minister N. Chandrababu Naidu on Wednesday welcomed the Centre\u2019s in-principle nod to release Rs. 12,157 crore for the Polavaram irrigation project and approval for the development of two industrial hubs under the National Industrial Corridor Development Programme, saying these steps would help his government bring the state back on development track. ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+                "link": "https://www.siasat.com/cm-naidu-welcomes-centres-nod-to-release-rs-12157-cr-for-polavaram-3086608/",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.5525898933410645
+                }
+            },
+            {
+                "description": "Agencies NEW DELHI: Accusing Congress of spreading misinformation, Finance Minister Nirmala Sitharaman on Tuesday said the newly launched UPS is a new pension scheme and not a rollback of NPS. \u201cIt is not a rollback... It is different from OPS (Old Pension Scheme) and NPS (National Pension System). It is clearly a new package,\u201d she [...]The post UPS a new scheme, not rollback of NPS as claimed by Congress: Sitharaman appeared first on Northlines.",
+                "link": "https://thenorthlines.com/ups-a-new-scheme-not-rollback-of-nps-as-claimed-by-congress-sitharaman-2/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.818164587020874
+                }
+            },
+            {
+                "description": "Athirapally and Cheemeni on list of potential sites",
+                "link": "https://www.thehindu.com/news/national/kerala/nuclear-power-plant-proposal-kerala-state-electricity-board-seeks-study-on-potential-sites/article68578049.ece",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8314303159713745
+                }
+            },
+            {
+                "description": "Chandrababu Naidu thanks the Union government for approving the development of Kopparthy and Orvakal industrial hubs under NICDP",
+                "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cm-welcomes-centres-nod-to-release-12157-crore-for-polavaram-project/article68577632.ece",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.8377141356468201
+                }
+            }
+        ]
+    },
+    {
+        "name": "S. Jaishankar",
+        "news": [
+            {
+                "description": "McMaster in his book gives a detailed account of his trip to Afghanistan, Pakistan and India from April 14\u201317, 2017, during which he met then Foreign Secretary S Jaishankar, Doval and Prime Minister Narendra Modi in New Delhi.",
+                "link": "https://zeenews.india.com/world/modi-was-a-hugger-donald-trump-was-warned-about-prime-ministers-trademark-meeting-style-reveals-ex-us-nsa-2784534.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9115803837776184
+                }
+            },
+            {
+                "description": "The controversy emerged when Qatari authorities confiscated the Saroops as part of an investigation, calling it an unapproved operation of a religious establishmentThe post Qatar returns 2 Saroops of Guru Granth Sahib to Indian Embassy appeared first on Greater Kashmir.",
+                "link": "https://www.greaterkashmir.com/world/qatar-returns-2-saroops-of-guru-granth-sahib-to-indian-embassy/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6029297709465027
+                }
+            },
+            {
+                "description": "The Indian Navy will commission its second nuclear submarine, INS Arighat, in Visakhapatnam today. Chile's Foreign Minister Alberto Van Klaveren is set to hold meetings with business leaders in Mumbai as part of his five-day visit to India. Here's what else will happen today",
+                "link": "https://www.firstpost.com/explainers/firstup-india-to-commission-second-nuclear-submarine-chilean-foreign-minister-in-mumbai-the-news-today-13809145.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9070252180099487
+                }
+            },
+            {
+                "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+                "link": "https://www.theweek.in/wire-updates/international/2024/08/29/fgn7-us-india-ties-book.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6519312262535095
+                }
+            },
+            {
+                "description": "Washington, Aug 29 (PTI): The Indian government led by Prime Minister Narendra Modi is willing to engage in \"unprecedented\" levels of cooperation with the United States, mainly due to Chinese aggression, but at the same time is \"fearful\" both of \"entrapment and abandonment\", former US National Security Adviser Lt Gen (retd) H R McMaster has stated in his latest book. Giving the firsthand account of his tenure during the Donald Trump administration as the National Security Advisor, McMaster in his book \"At War With Ourselves\u201d, that hit the bookstores this Tuesday, says he met his Indian counterpart Ajit K Doval a day before he was fired by Trump. \u201cThe day before I was fired, I met for dinner with my Indian counterpart, Ajit Doval, at Quarters 13, Fort McNair, a quiet place at the intersection of the Anacostia and Potomac Rivers, just south of the US Capitol. Doval is a character straight out of central casting. Betraying his background as the former director of his country\u2019s Intelligence Bureau, he would lean into conversations, cock his head to the side as he spoke, and use hushed tones, even when discussing the most routine subjects,\u201d McMaster writes. \u201cDuring our walk after dinner, he whispered, 'How much longer will we work together?' It did not take someone with Doval\u2019s intelligence background to figure out I was departing the Trump administration. Without answering directly, I told him it had been a privilege and expressed confidence that there would be continuity,\u201d he says. McMaster writes they knew each other well enough for Doval to be direct. \u201cWhat happens in Afghanistan after you leave?\u201d Doval asked him, to which McMaster reminded the Indian NSA that Trump had approved the South Asia strategy last August and that it was the first reasoned and sustainable strategy in 17 years of war. \"Doval knew this, but sometimes you cannot be fully candid with even your closest foreign counterparts. In fact, I shared Doval\u2019s concern, and I knew that my response was less than convincing. Trump was unconventional and impulsive. Sometimes his impulses were good. Other times, to use one of his turns of phrase, 'not so much',\u201d the American general writes. McMaster in his book gives a detailed account of his trip to Afghanistan, Pakistan and India from April 14\u201317, 2017, during which he met then Foreign Secretary S Jaishankar, Doval and Prime Minister Narendra Modi in New Delhi. The conversation was easy, as Doval, Jaishankar, \"and I believed we had a tremendous opportunity to work together in pursuit of our mutual objectives\u201d, McMaster writes about his meeting at the Janpath residence of Doval. Jaishankar then was the Foreign Secretary and late Sushma Swaraj was the External Affairs Minister. \u201cWe spoke about the war in Afghanistan and the threat to India from nuclear-armed Pakistan, but Jaishankar and Doval spoke mainly about an increasingly aggressive China. The two men were open to unprecedented cooperation thanks to Xi Jinping\u2019s aggression. The deepening partnership between the world\u2019s largest and the world\u2019s oldest democracies seemed logical, but India is fearful both of entrapment into competitions from which it would prefer to abstain and abandonment based on the short American attention span and ambivalence over South Asia,\u201d McMaster writes. \u201cThose 'schizophrenic' anxieties and the legacy of India\u2019s leadership of the Non-Aligned Movement during the Cold War had led to hedging behaviour, especially with Russia, an important source of arms and oil for India,\u201d he states. On the final day of his trip, he met Modi at his residence. \u201cModi gave us a warm welcome. It was clear that deepening and expanding our relationship was a top priority for him. He expressed concern over China\u2019s increasingly aggressive efforts to extend its influence at India\u2019s expense and over its growing military presence in the region,\u201d the former NSA writes. Modi, McMaster says, suggested that the US, India, Japan, and like-minded partners emphasise the concept of a free and open Indo-Pacific as an inclusive effort to benefit all, in contrast to China\u2019s 'One Belt One Road' initiative. At the end of the meeting, he says, the prime minister gave him a hug, put his hands on his shoulders, and blessed him. \u201cYou have an aura around you, and you will do good for humanity,\u201d Modi told him. A few months later Trump hosted Modi for a meeting at the White House on June 25-26, 2017. \u201cWe huddled in the Oval Office for a few moments between the meeting with Modi\u2019s delegation in the Cabinet Room and the statements and question-and-answer session in the Rose Garden. I warned Trump that the prime minister was a hugger and, based on how well the visit was going, would probably hug Trump after their statements,\u201d McMaster writes. \u201cAlthough Trump was known to hug the occasional American flag onstage, he was not a big hugger of people. The hug was delivered and reciprocated in a way that was not too awkward. Success. Modi departed on June 27, just two days before Moon\u2019s arrival,\u201d he says. Modi was the first head of state the president and First Lady hosted for dinner in the Blue Room, he noted. PTI LKJ SCY SCY(This story is published as part of the auto-generated syndicate wire feed. No editing has been done in the headline or the body by ABP Live.)",
+                "link": "https://news.abplive.com/news/world/india-open-to-unprecedented-cooperation-with-us-because-of-chinese-aggression-says-ex-nsa-mcmaster-1713387",
+                "sentiment": null
+            },
+            {
+                "description": "Get latest articles and stories on World at LatestLY. The Indian government led by Prime Minister Narendra Modi is willing to engage in \"unprecedented\" levels of cooperation with the United States, mainly due to Chinese aggression, but at the same time is \"fearful\" both of \"entrapment and abandonment\", former US National Security Adviser Lt Gen (retd) H R McMaster has stated in his latest book.",
+                "link": "https://www.latestly.com/agency-news/world-news-india-open-to-unprecedented-cooperation-with-us-because-of-chinese-aggression-says-ex-nsa-mcmaster-6223389.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7206760048866272
+                }
+            },
+            {
+                "description": "India open to 'unprecedented' cooperation with US because of Chinese aggression, says ex-NSA McMaster",
+                "link": "https://www.hindustantimes.com/world-news/us-news/india-open-to-unprecedented-cooperation-with-us-because-of-chinese-aggression-says-ex-nsa-mcmaster-101724890450519.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8800183534622192
+                }
+            },
+            {
+                "description": "As Punjab BJP Leader Sukhminderpal Singh Grewal raised his voice and requested External Affairs Ministry for swift release of Sikh Scriptures from Qatar Custody and immediate action of the external affairs ministry, now Qatar authorities on Wednesday have handed over to Indian Embassy in Doha Sri Guru Granth Sahib (two Saroops) taken from an Indian national in a case related to running a religious establishment without approvals.Grewal who received a letter from the union ministry for external affairs said here today that Union Government have expressed and conveyed thanks to the Government of Qatar for the same.Grewal said that Indian Embassy have also appealed to all Indian citizens residing in Qatar to scrupulously follow local laws and regulations in all matters.It may be mentioned here that Grewal has written a detailed letter on August 24 to external affairs minister Dr S. Jaishankar to intervene in this sensitive matter and to secure release of two \u201cSwaroops\u201d of Holy Shri Granth Sahib lying in the custody Of Qatar authorities for the last eight months.",
+                "link": "https://www.5dariyanews.com/news/439731-Qatar-Authorities-handed-over-Swaroops-of-Guru-Granth-Sahib-to-Indian-Embassy-Sukhminderpal-Singh-G",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.865011990070343
+                }
+            }
+        ]
+    },
+    {
+        "name": "Manohar Lal Khattar",
+        "news": [
+            {
+                "description": "The Indian Navy will commission its second nuclear submarine, INS Arighat, in Visakhapatnam today. Chile's Foreign Minister Alberto Van Klaveren is set to hold meetings with business leaders in Mumbai as part of his five-day visit to India. Here's what else will happen today",
+                "link": "https://www.firstpost.com/explainers/firstup-india-to-commission-second-nuclear-submarine-chilean-foreign-minister-in-mumbai-the-news-today-13809145.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9070252180099487
+                }
+            },
+            {
+                "description": "Resorting to a unique way to get connected with people at the grassroot and understand the voters' mood, Haryana Chief Minister Nayab Singh Saini on Wednesday rode a bullock cart to reach a public meeting venue during campaigning.",
+                "link": "https://www.ndtv.com/india-news/haryana-chief-minister-rides-bullock-cart-to-reach-meeting-venue-during-campaigning-6440185",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8101900219917297
+                }
+            },
+            {
+                "description": "Haryana Assembly Polls: The Chief Electoral Officer of Haryana has issued a show cause notice to the BJP state president for immediate corrective action.",
+                "link": "https://www.livemint.com/politics/news/haryana-assembly-polls-election-commission-issues-notice-to-bjp-for-featuring-child-in-poll-campaign-video-11724856323175.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8856825232505798
+                }
+            },
+            {
+                "description": "The BJP's Haryana unit challenges Congress to nominate a Dalit chief minister candidate, questioning their commitment to backward classes. The Congress responds, asserting their record of Dalit leadership and confidence in winning the upcoming Haryana polls. The BJP had requested the Election Commission to postpone the elections citing holidays around the polling date.",
+                "link": "https://timesofindia.indiatimes.com/india/name-a-dalit-bjp-cong-spar-over-cm-face-in-haryana-amid-caste-census-debate/articleshow/112868568.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7722544074058533
+                }
+            },
+            {
+                "description": "Rocky Mittal says he has composed over 200 songs eulogising PM and over 20 about UP CM Yogi. Once appointed publicity adviser by Khattar, he had a fallout with BJP earlier this month.",
+                "link": "https://theprint.in/politics/maaf-karna-rahul-mere-bhai-haryana-singer-who-bashed-congress-mp-wrote-paeans-to-modi-changes-tune/2241816/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8342878818511963
+                }
+            },
+            {
+                "description": "Months after her victory in the Lok Sabha elections from Sirsa, the former Union Minister Selja has expressed her intention to run in the forthcoming assembly elections, stating her eagerness to serve in the state.",
+                "link": "https://zeenews.india.com/india/name-selja-as-cm-candidate-to-show-sc-support-haryana-bjp-dares-rahul-gandhi-congress-ahead-of-assembly-elections-2784310.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5628435015678406
+                }
+            }
+        ]
+    },
+    {
+        "name": "H. D. Kumaraswamy",
+        "news": [
+            {
+                "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+                "link": "https://www.theweek.in/wire-updates/national/2024/08/28/mds6-ka-governor-home-minister.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6519312262535095
+                }
+            }
+        ]
+    },
+    {
+        "name": "Piyush Goyal",
+        "news": [
+            {
+                "description": "Similarly, in Tumakuru in Karnataka, Krishnapatnam in Andhra Pradesh, Nangal Chaudhary in Haryana, and Dadri, Greater Noida in Uttar Pradesh, the government's special purpose vehicle (SPV) is in the process of constructing the basic infrastructure like road connectivity, water and power supply",
+                "link": "https://www.thehansindia.com/news/national/12-new-industrial-cities-approved-to-boost-mfg-903024",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9039087891578674
+                }
+            },
+            {
+                "description": "Centre to spend Rs 28,602 cr on new projects under NICDP",
+                "link": "https://www.thehansindia.com/news/national/12-new-smart-cities-to-boost-mfg-903010",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.785993218421936
+                }
+            },
+            {
+                "description": "Either a lot has transpired in the past few days, or maybe I\u2019m overthinking things (that\u2019d be very much in line with my personality).",
+                "link": "https://www.hindustantimes.com/technology/amazon-and-flipkart-face-blinkit-zepto-conundrum-and-solving-telegram-s-chaos-101724875628527.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5014081597328186
+                }
+            },
+            {
+                "description": "The cabinet committee on economic affairs has cleared the development of 12 new industrial cities with a total investment of Rs 28,600 crore. These cities will be spread across multiple states and are expected to generate around 10 lakh jobs. Basic infrastructure for these projects is aimed to be developed within three years.",
+                "link": "https://timesofindia.indiatimes.com/india/at-28-6k-cr-govt-to-set-up-12-industrial-cities/articleshow/112878516.cms",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.6327144503593445
+                }
+            },
+            {
+                "description": "Project aimed at boosting domestic manufacturing New Delhi: The government on Wednesday approved 12 new industrial cities in 10 states on the lines of Greater Noida in Uttar Pradesh and Dholera in Gujarat to boost domestic manufacturing with an estimated investment of Rs 28,602 crore. These industrial areas will be in Khurpia in Uttarakhand, Rajpura-Patiala [...]The post Cabinet clears setting up of 12 industrial smart cities appeared first on The Navhind Times.",
+                "link": "https://www.navhindtimes.in/2024/08/29/nationalnews/cabinet-clears-setting-up-of-12-industrial-smart-cities/",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.5145913362503052
+                }
+            },
+            {
+                "description": "Western Railway will launch a 15-coach train from Borivali to Konkan, flagged off by Union Railway Minister Ashwini Vaishnaw on August 29.",
+                "link": "https://www.hindustantimes.com/cities/mumbai-news/wr-to-flag-off-konkan-bound-train-from-borivali-today-101724872656345.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9267538785934448
+                }
+            }
+        ]
+    },
+    {
+        "name": "Dharmendra Pradhan",
+        "news": [
+            {
+                "description": "Himanta hits back at Didi with 'politics of failure' swipe",
+                "link": "https://timesofindia.indiatimes.com/india/himanta-hits-back-at-didi-with-politics-of-failure-swipe/articleshow/112877466.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5756567120552063
+                }
+            },
+            {
+                "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+                "link": "https://www.theweek.in/wire-updates/national/2024/08/28/ces24-od-rail-line-majhi.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6519312262535095
+                }
+            },
+            {
+                "description": "Get latest articles and stories on India at LatestLY. Odisha Chief Minister Mohan Charan Majhi on Wednesday thanked Prime Minister Narendra Modi and Railway Minister Ashwini Vaishnaw for sanctioning two new railway lines for the state.",
+                "link": "https://www.latestly.com/agency-news/india-news-odisha-cm-pradhan-thank-modi-vaishnaw-for-two-new-railway-lines-6223087.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5199998617172241
+                }
+            }
+        ]
+    },
+    {
+        "name": "Jitan Ram Manjhi",
+        "news": []
+    },
+    {
+        "name": "Lalan Singh",
+        "news": [
+            {
+                "description": "Assam Chief Minister Himanta Biswa Sarma criticized West Bengal counterpart Mamata Banerjee for allegedly inciting public unrest to conceal her own failures. Sarma shared a video where Banerjee warned that instability in West Bengal could affect other states, cautioning her to avoid divisive politics.",
+                "link": "https://timesofindia.indiatimes.com/city/kolkata/if-bengal-burns-controversy-cm-mamata-banerjee-faces-heat-from-bjp-cms-and-ministers/articleshow/112882193.cms",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.5430388450622559
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sarbananda Sonowal",
+        "news": [
+            {
+                "description": "The MoU facilitates the revision of the wage structure and addresses other service conditions, including pensionary benefits",
+                "link": "https://www.thehansindia.com/andhra-pradesh/wage-negotiations-bwnc-ipa-ink-pact-903015",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8870161175727844
+                }
+            },
+            {
+                "description": "New Delhi, Aug 28(PTI) The Ministry of Ports, Shipping and Waterways on Wednesday approved a wage structure revision for workers at 12 major ports, benefiting about 20,000 permanent employees. As per a memorandum of understanding (MoU) between the Bipartite Wage Negotiation Committee (BWNC) and the Indian Port Association (IPA), a fitment benefit of 8.5 per [...]",
+                "link": "https://theprint.in/economy/shipping-ministry-approves-wage-structure-revision-for-workers-of-major-ports/2242687/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6928218603134155
+                }
+            },
+            {
+                "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+                "link": "https://www.theweek.in/wire-updates/business/2024/08/28/del123-biz-ld-port-strike-sonowal.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6519312262535095
+                }
+            },
+            {
+                "description": "The workers signed an MoU with the Indian Ports Association, calling off an indefinite strike that would have disrupted operations at 12 major ports across India from 28 August.",
+                "link": "https://www.livemint.com/industry/port-workers-strike-revised-wage-structure-indian-ports-authority-wage-negotiations-wages-major-indian-ports-11724853647151.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6789816617965698
+                }
+            },
+            {
+                "description": "The MoU facilitates the revision of the wage structure and addresses other service conditions, including pensionary benefits. It was agreed that the fitment benefit of 8.5% on the aggregate amount of basic pay as of December 31, 2021, plus 30% Variable Dearness Allowance (VDA) as of January 1, 2022, shall be granted.",
+                "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/wage-negotiations-with-port-workers-to-complete-in-a-fortnight/articleshow/112871708.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7949602603912354
+                }
+            },
+            {
+                "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+                "link": "https://www.theweek.in/wire-updates/national/2024/08/28/cal39-as-assembly-accord.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6519312262535095
+                }
+            },
+            {
+                "description": "The Ministry of Ports, Shipping and Waterways has approved a new wage structure for workers at major ports, stopping an indefinite strike. The agreement includes an 8.5% fitment benefit and additional allowances. The periodicity of the settlement is from January 1, 2022, to December 31, 2026, with a review set for 2027.",
+                "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/shipping-ministry-approves-wage-structure-revision-for-workers-of-major-ports/articleshow/112871021.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8025636672973633
+                }
+            },
+            {
+                "description": "Get latest articles and stories on India at LatestLY. The assembly on Wednesday witnessed a noisy scene over implementation of the Assam Accord with the opposition accusing the government of not doing enough to execute the agreement.",
+                "link": "https://www.latestly.com/agency-news/india-news-noisy-scene-in-assembly-over-assam-accord-implementation-6222683.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7167543172836304
+                }
+            },
+            {
+                "description": "The results are a boost to the BJP in the Upper House where no single party since 1988-1990 has had an upper hand.",
+                "link": "https://www.thequint.com/news/india/rajya-sabha-bjp-and-allies-win-11-of-12-seats-uncontested-gain-simple-majority-in-upper-house",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.739798367023468
+                }
+            }
+        ]
+    },
+    {
+        "name": "Virendra Khatik",
+        "news": []
+    },
+    {
+        "name": "Kinjarapu Ram Mohan Naidu",
+        "news": [
+            {
+                "description": "Coimbatore, in spite of having an international airport has very few direct connectivity to international destinations. Due to these tourists and passenger ...",
+                "link": "https://english.mathrubhumi.com/news/money/coimbatore-airport-kgf-urges-ministry-international-flights-1.9852311",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.515088677406311
+                }
+            }
+        ]
+    },
+    {
+        "name": "Prahlad Joshi",
+        "news": []
+    },
+    {
+        "name": "Jual Oram",
+        "news": []
+    },
+    {
+        "name": "Giriraj Singh",
+        "news": []
+    },
+    {
+        "name": "Ashwini Vaishnaw",
+        "news": [
+            {
+                "description": "The first meeting of the Council of Ministers during Prime Minister Narendra Modi's third term was held on Wednesday (August 28) at Sushma Swaraj Bhavan in Delhi. The meeting, chaired by PM Modi, lasted around five hours and fifty minutes. During the session, the Central Cabinet for Economic Affairs approved the establishment of 12 new industrial smart cities in 9 states. Spread across 10 states and aligned with six major corridors, these 12 industrial smart cities are expected to significantly boost manufacturing. Under the National Industrial Corridor Development Program, the government will invest \u20b928,602 crore in these projects. According to Union Minister Ashwini Vaishnaw, these industrial smart cities will form a grand network along the Golden Quadrilateral, creating 1 million direct and 3 million indirect jobs. These projects are expected to generate an investment potential of \u20b91.52 lakh crore, with a target of achieving \u20b92 lakh crore in exports by 2030. The projects are anticipated to be completed by 2027, with five located near the Amritsar-Kolkata Industrial Corridor and two near the Delhi-Mumbai Industrial Corridor. One project each will be near the Visakhapatnam-Chennai, Hyderabad-Bengaluru, Hyderabad-Nagpur, and Chennai-Bengaluru Industrial Corridors. The 12th smart city will be in Haryana, though its exact location has not been disclosed. Notably, the Central Cabinet has approved eight infrastructure projects worth \u20b92 lakh crore in the past three months. During the meeting, PM Modi reviewed the progress of the government's first 100-day agenda, with officials presenting reports on the work done. The focus was on schemes related to women, the poor, youth, and farmers. PM Modi emphasized the need for ministers and bureaucrats to focus on addressing the challenges faced by women and the underprivileged. Secretaries from various government departments attended the meeting. PM Modi urged quick responses on social media and emphasized maintaining the same pace of work seen over the last decade for the next five years. He promoted the slogan \"Perform, Reform, Transform, and Inform.\" The NDA government has set the goal of making India a developed nation by 2047 by addressing basic needs.",
+                "link": "https://news.abplive.com/videos/news/india-pm-modi-launches-slogan-perform-reform-transform-and-inform-in-first-cabinet-meeting-of-third-term-1713402",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6914394497871399
+                }
+            },
+            {
+                "description": "Infosys cofounder and non-executive chairman Nandan Nilekani has said that startups built on top of India\u2019s digital public infrastructure are...Infosys cofounder and non-executive chairman Nandan Nilekani has said that startups built on top of India\u2019s digital public infrastructure are valued north of $100 Bn. \u201cThe estimate is that the market value of startups on top of India's DPI is about $100 Bn,\u201d Nilekani said while speaking at the annual Global Fintech Festival 2024. He...CTA: Tap To Learn More",
+                "link": "https://inc42.com/buzz/startups-built-atop-indias-digital-public-infra-pegged-at-100-bn-nandan-nilekani/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5560110211372375
+                }
+            },
+            {
+                "description": "Similarly, in Tumakuru in Karnataka, Krishnapatnam in Andhra Pradesh, Nangal Chaudhary in Haryana, and Dadri, Greater Noida in Uttar Pradesh, the government's special purpose vehicle (SPV) is in the process of constructing the basic infrastructure like road connectivity, water and power supply",
+                "link": "https://www.thehansindia.com/news/national/12-new-industrial-cities-approved-to-boost-mfg-903024",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9039087891578674
+                }
+            },
+            {
+                "description": "The Union Cabinet, led by PM Narendra Modi, approved the rollout of 730 new private FM radio channels across India, including 19 new private FM stations in Odisha. These will be established in Puri, Bhadrak, Balasore, Baripada, Berhampur, and Sambalpur. This initiative aims to fulfil the unmet demand for local content and employment opportunities while promoting regional languages and cultures.",
+                "link": "https://odishatv.in/news/odisha/centre-approves-license-for-19-new-private-fm-stations-in-odisha-242732",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.6338537335395813
+                }
+            },
+            {
+                "description": "Centre to spend Rs 28,602 cr on new projects under NICDP",
+                "link": "https://www.thehansindia.com/news/national/12-new-smart-cities-to-boost-mfg-903010",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.785993218421936
+                }
+            },
+            {
+                "description": "Bhubaneswar: The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved three mega railway projects with an estimated cost of Rs 6456 crore. They include two new railway lines and one multi-tracking project covering four states including Odisha. The 138 km railway line will connect Bargarh Road and Nuapada Road and [...]",
+                "link": "https://orissadiary.com/union-cabinet-approves-rs-2926-crore-railway-projects-for-western-odisha/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6850770115852356
+                }
+            },
+            {
+                "description": "The cabinet committee on economic affairs has cleared the development of 12 new industrial cities with a total investment of Rs 28,600 crore. These cities will be spread across multiple states and are expected to generate around 10 lakh jobs. Basic infrastructure for these projects is aimed to be developed within three years.",
+                "link": "https://timesofindia.indiatimes.com/india/at-28-6k-cr-govt-to-set-up-12-industrial-cities/articleshow/112878516.cms",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.6327144503593445
+                }
+            }
+        ]
+    },
+    {
+        "name": "Jyotiraditya Scindia",
+        "news": [
+            {
+                "description": "Industry conclave: The Madhya Pradesh government on attracted a total investment of \u20b98,000 crore at Industry Conclave. The total investment includes \u20b93,500 crore from Adani group",
+                "link": "https://www.livemint.com/companies/news/mp-regional-investors-meet-govt-attracts-rs-8k-crore-investment-at-industry-conclave-adani-group-to-invest-3-5k-crore-11724899388295.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7579807043075562
+                }
+            },
+            {
+                "description": "Investors from more than 15 Indian states, including Uttar Pradesh, Rajasthan, Delhi, Maharashtra, Tamil Nadu, and Gujarat, also took part in the conclave.",
+                "link": "https://www.hindustantimes.com/business/3rd-regional-industry-conclave-in-gwalior-spurs-13-000-crore-in-investments-101724865443961.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8289073705673218
+                }
+            },
+            {
+                "description": "Gwalior, Aug 28 (PTI) The Madhya Pradesh government\u2019s regional industry conclave on Wednesday attracted investment proposals totalling Rs 8,000 crore across various sectors, including Rs 3,500 crore by Adani Group. Besides, Reliance is planning to invest in renewable gas and compressed biogas projects in the state. Addressing the conclave, Madhya Pradesh Chief Minister Mohan Yadav [...]",
+                "link": "https://theprint.in/economy/industry-conclave-mp-govt-attracts-rs-8k-cr-investment-adani-group-to-invest-rs-3500-cr/2242894/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.695603609085083
+                }
+            },
+            {
+                "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+                "link": "https://www.theweek.in/wire-updates/business/2024/08/28/dcm116-biz-mp-industry-conclave.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6519312262535095
+                }
+            },
+            {
+                "description": "Madhya Pradesh's industry conclave draws Rs 8,000 crore investment with Adani Group pledging Rs 3,500 crore. Plans for industrial parks and renewable projects announced.",
+                "link": "https://www.goodreturns.in/news/mp-govt-attracts-8k-cr-investment-adani-group-3500-cr-011-1373013.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6254944205284119
+                }
+            },
+            {
+                "description": "Get latest articles and stories on Latest News at LatestLY. The Madhya Pradesh government's regional industry conclave on Wednesday attracted investment proposals totalling Rs 8,000 crore across various sectors, including Rs 3,500 crore by Adani Group.",
+                "link": "https://www.latestly.com/agency-news/latest-news-industry-conclave-mp-govt-attracts-rs-8k-cr-investment-adani-group-to-invest-rs-3500-cr-6223089.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7758334279060364
+                }
+            },
+            {
+                "description": "In a post on X, office of Jyotiraditya Scindia wrote, 'Gwalior has always been a pioneer in the service of animals, especially Gau-seva. To further strengthen this effort, Chief Minister Mohan Yadav ji and Scindia ji flagged off Pashu Raksha Vaahan today.'",
+                "link": "https://www.latestly.com/agency-news/india-news-mp-cm-mohan-yadav-scindia-flag-off-pashu-seva-rath-to-provide-health-services-to-animals-in-gwalior-6222163.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6420270800590515
+                }
+            }
+        ]
+    },
+    {
+        "name": "Bhupender Yadav",
+        "news": [
+            {
+                "description": "The Congress spokesperson wrote in a letter to Environment Minister Bhupender Yadav that the EAC had pointed out that the location of the project was not based on environmental considerations",
+                "link": "https://www.thehindu.com/news/national/environment-ignored-in-considering-sites-for-nicobar-infrastructure-project-jairam-ramesh/article68578457.ece",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.6958921551704407
+                }
+            },
+            {
+                "description": "An adult male tiger, ST-2303, has traveled from Sariska reserve to Jhabua forest, 125km away, causing concern among forest officials about potential village threats. The dense forest and the tiger's elusive behavior complicate efforts to capture it. Authorities are working on relocating the tiger back to its original habitat in Sariska.",
+                "link": "https://timesofindia.indiatimes.com/city/gurgaon/tiger-tiger-hunting-right-11-days-gone-st-2303-at-home-in-jhabua/articleshow/112852059.cms",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.5309259295463562
+                }
+            },
+            {
+                "description": "Jairam Ramesh has responded to environment minister Bhupender Yadav\u2019s letter which said that no objections were raised by the tribals against the project.",
+                "link": "https://www.hindustantimes.com/india-news/cong-claims-discrepancy-in-clearances-in-nicobar-project-101724782551657.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9186897873878479
+                }
+            },
+            {
+                "description": "The Assam government seeks ex-post facto clearance for illegal forest land diversions and requests leniency for former PCCF MK Yadava, who approved the diversions.",
+                "link": "https://www.hindustantimes.com/india-news/police-battalions-in-assam-s-forests-may-be-regularised-101724782551804.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8134516477584839
+                }
+            }
+        ]
+    },
+    {
+        "name": "Gajendra Singh Shekhawat",
+        "news": []
+    },
+    {
+        "name": "Annpurna Devi",
+        "news": []
+    },
+    {
+        "name": "Kiren Rijiju",
+        "news": [
+            {
+                "description": "The official website of the Olympics confirms that no Indian cyclist competed in the cycling events in Berlin in 1936, while no Olympic games were held in 1942.",
+                "link": "https://theprint.in/opinion/cyclist-jankidas-never-represented-india-at-olympics-the-flag-story-isnt-true/2241196/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7500768899917603
+                }
+            },
+            {
+                "description": "Get latest articles and stories on India at LatestLY. Uttarakhand Chief Minister Pushkar Singh Dhami attended the Bharatiya Janata Party's United Front Workshop and Membership Campaign 2024 in Dehradun.",
+                "link": "https://www.latestly.com/agency-news/india-news-uttarakhand-cm-dhami-attends-bjps-united-front-workshop-and-membership-campaign-in-dehradun-6223251.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9206228852272034
+                }
+            },
+            {
+                "description": "In recent years, there has been a marked reduction in the number of Bills referred to Parliamentary Standing Committees or Select Committees for thorough scrutiny, he says in letter to J.P. Nadda",
+                "link": "https://www.thehindu.com/news/national/delay-in-forming-standing-committees-has-profound-implications-for-democratic-process-derek-o-brien/article68577293.ece",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8020631670951843
+                }
+            },
+            {
+                "description": "The BJP Minority Morcha organised a national membership campaign workshop 2024 at the party headquarters to make the membership campaign 2024 successful.",
+                "link": "https://www.ndtv.com/india-news/how-bjps-minority-front-plans-to-enroll-50-lakh-members-6436053",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.5954253077507019
+                }
+            }
+        ]
+    },
+    {
+        "name": "Hardeep Puri",
+        "news": [
+            {
+                "description": "Petroleum and Natural Gas Minister, Hardeep Singh Puri yesterday met Brazil\u2019s External Affairs Minister, Mauro Vieira in New Delhi. In a social media post, Mr Puri said that he had a productive disc...",
+                "link": "http://www.en.etemaaddaily.com/world/national/hardeep-singh-puri-brazils-mauro-vieira-discuss-energy-partnership-biofuels-collaboration:159937",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7838208675384521
+                }
+            },
+            {
+                "description": "Santosh Rao of Manhattan Venture Partners discusses the demand for skilled and unskilled workers in the US and Canada. He highlights the strain on local infrastructure and educational systems due to immigration. Rao emphasizes the need for balanced immigration policies amidst economic challenges and an undercurrent of xenophobia in some Western countries.",
+                "link": "https://economictimes.indiatimes.com/nri/work/canadas-planned-cap-on-low-wage-foreign-workforce-a-temporary-pause-they-need-people-to-grow-their-gdp-santosh-rao/articleshow/112854685.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8834583163261414
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mansukh Mandaviya",
+        "news": [
+            {
+                "description": "Get latest articles and stories on Sports at LatestLY. On the occasion of the National Sports Day on Thursday, legendary hockey player Major Dhyan Chand's son, Olympian Ashok Kumar unveiled his father's statue in Jabalpur, Madhya Pradesh.",
+                "link": "https://www.latestly.com/agency-news/sports-news-olympian-ashok-kumar-unveils-major-dyan-chands-statue-on-national-sports-day-6223631.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.606043815612793
+                }
+            },
+            {
+                "description": "Essay on National Sports Day in English: 10 Lines, Short and Long Essay Ideas Jagran JoshNational Sports Day 2024: 10 inspiring sports autobiographies you must read The Indian ExpressIndian sporting fraternity honours Major Dhyan Chand on National Sports Day India TodayManu Bhaker Reveals PM Narendra Modi's Words After Tokyo Olympics Heartbreak That Lifted Her Spirits.. NDTV SportsZafar Iqbal, Mansukh Mandaviya pay tributes to Dhyan Chand on National Sports Day The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3ZFVmNTZEowdnEwWkg0YmdKSzYwSzRrbk5pNF9DWlJjcUhKOURJQ1VSaTAyOXF0SWZoVFNsbUpkV1VpMDBobU1hclBPRlJrTVNIUDdmV3hMcGVhdWxCbGdUd2dUMjh4U0ZoTGkzX2hJandtMUJBYTBoOGtFS2gyVzcwM05ubVNFd2Y1WVJQTkcyQ1920gGaAUFVX3lxTE5rVmZzRmV2cHJEZ2kzajZzbmVlZEd1dHF6ZDJQN1BXbHlfYjlVS3FHM3VCRGRiTi1pMTFhNE1yWGstMk1WTzF4SDRCYVhqNzdaOWhGeXBKUkJpeFhzRC03SXA5azRYZ25HSFZ4UHcyRTgxVml2ZGxXamNTdGxFajN2ZXE5YTVHQmJwdWJnQ2RvenFCMW1YR2YzMFE?oc=5",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.6669376492500305
+                }
+            },
+            {
+                "description": "Here is a select list of stories to start the day",
+                "link": "https://www.thehindu.com/news/morning-digest-august-29-2024/article68578645.ece",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8367882966995239
+                }
+            },
+            {
+                "description": "Ten Central Trade Unions demand restoration of old pension scheme, want government to convene Indian Labour Conference; Labour Minister seeks unions\u2019 inputs on ELI schemes; BMS says informal sector needs help",
+                "link": "https://www.thehindu.com/news/national/centre-offers-further-discussions-with-trade-unions-on-labour-codes/article68577799.ece",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8670451641082764
+                }
+            },
+            {
+                "description": "At the first roundtable meeting with the minister, since he took charge in June, the 10 central trade unions submitted a joint demand charter to the minister asking government to immediately convene the Indian Labour Conference, scrap the Labour Codes and start dialogue in ILC for changes in laws to the satisfaction of all concerned, and immediate halting of privatisation across sectors.",
+                "link": "https://economictimes.indiatimes.com/news/india/labour-minister-mansukh-mandaviya-seeks-view-of-trade-unions-on-employment-linked-incentive-schemes/articleshow/112871736.cms",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8924900889396667
+                }
+            },
+            {
+                "description": "Get latest articles and stories on Latest News at LatestLY. Union Labour Minister Mansukh Mandaviya on Wednesday assured trade unions that there will be regular meetings between the two sides to discuss various issues, including employment-linked incentive scheme, which was discussed at length here.",
+                "link": "https://www.latestly.com/agency-news/latest-news-mandaviya-assures-unions-of-regular-meetings-to-seek-input-on-schemes-policies-6222716.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8702695369720459
+                }
+            },
+            {
+                "description": "India's Infosys recruits reportedly subjected to repeated, unpaid \"pre-training.\" - arstechnica.com",
+                "link": "https://news.knowledia.com/all/all/articles/exploitative-it-firm-has-been-delaying-2-000-recruits-onboarding-for-2a21b10d1c91f7f88d3c34d6b979d2607e861a60?source=rss",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.5627045035362244
+                }
+            },
+            {
+                "description": "India's Infosys recruits reportedly subjected to repeated, unpaid \"pre-training.\"",
+                "link": "https://arstechnica.com/?p=2045697",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.657223641872406
+                }
+            }
+        ]
+    },
+    {
+        "name": "Kishan Reddy",
+        "news": [
+            {
+                "description": "Indian cricket team players are expected to participate in the tournament.",
+                "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/anantapur-to-host-duleep-trophy-from-sept-5-1819791",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8556873798370361
+                }
+            },
+            {
+                "description": "Hyderabad: Zaheerabad in Sangareddy district has been picked by the Centre as one of the 12 industrial smart cities in 10 states that are being developed at a cost of Rs 28,602 crore. The decision has been taken during a Union cabinet meeting in Delhi on Wednesday, August 28. The smart industrial city is being ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+                "link": "https://www.siasat.com/centre-to-develop-zaheerabad-nimz-as-smart-industrial-city-3086531/",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.7182099223136902
+                }
+            },
+            {
+                "description": "NLC India signs 25-year agreement with Telangana for 200 MW solar power CNBCTV18NLC India signs power usage agreement to supply 200 MW green power; shares up 3% MoneycontrolNLC India signs deal with discoms in T The Times of IndiaCentre urges state to sign PPA with NLC\u2019s Gujarat unit The New Indian ExpressNLC ready to provide 200 MW solar power to TG: Kishan Reddy The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3RHNUVCVi12UWxCSGJra2pGV0FwZkVYQzBoM1MzZTdRelFFakFkN2lCaWdNTUgtd3hTWVdSZWxUY0Q5WnlrZWFwa0xSbHZ2Q196YWVPUnhxOC0wYmw4OElvS3NrbnczZGJoSDZtdWx1MGtRTFFvTGR4MkFHdlZYcFRISGFGOVl3MURrVE5HN3pmVThBSTNIa0c4aW1GalB3Y1pTa2JuX0pFdmxib2RhbUdlZWJBWkRrd2JxUERoUXnSAcYBQVVfeXFMUHZJT2M2TTN3NDRCVXgxRkRtemhCemUzU2JNYWVsVFc3bGZPQWlfRmw4Mmw1RzhzbEVyWnZtYk9vTkNwbWo4cGxvMEpHYUkxRk5nLTVzM3RXbUxPYjRsOW5WSTMzVF9uS096ajBNdWoyRFBHZi1FYVEzdFF0RTdKUE1NZmxmM0dYQk01Y0RGTnVva2RkUDFaWnRHcWtuREZDczZIMXA2TFJRN2xuUUR1c05TVDJOLXRLMnI3QjJ0Qm5KV2FfaDVR?oc=5",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8973179459571838
+                }
+            },
+            {
+                "description": "Union Coal Minister G Kishan Reddy on Wednesday thanked Prime Minister Narendra Modi for announcing Zaheerabad as Industrial Smart City. The Cabinet Committee on Economic Affairs (CCEA) chaired b...",
+                "link": "http://www.en.etemaaddaily.com/world/hyderabad/kishan-reddy-thanks-modi-for-announcing-zaheerabad-as-industrial-smart-city:159976",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.6733234524726868
+                }
+            },
+            {
+                "description": "Union Minister of Coal and Mines, G Kishan Reddy said that the Coal Ministry has taken a step forward in the ongoing effort to meet the future electricity needs of Telangana.",
+                "link": "https://www.thehansindia.com/telangana/nlc-solar-plant-can-provide-200-mw-green-electricity-annually-to-state-kishan-902790",
+                "sentiment": {
+                    "label": "positive",
+                    "score": 0.539466917514801
+                }
+            }
+        ]
+    },
+    {
+        "name": "Chirag Paswan",
+        "news": [
+            {
+                "description": "A census to enumerate castes is likely to unravel the BJP's project to unify the Hindus and build a Hindu Rashtra.",
+                "link": "https://www.thequint.com/opinion/caste-census-rahul-gandhi-politics-opposition-congress-bjp-modi-hindutva-nda-chirag-paswan",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.6041218042373657
+                }
+            },
+            {
+                "description": "GV Harsha Kumar, Ex-MP and convenor of the Anti-Classification Struggle Committee made notable remarks about the classification of SC reservations in a media briefing on Wednesday.",
+                "link": "https://www.thehansindia.com/andhra-pradesh/harsha-kumar-predicts-madiga-leaders-will-soon-oppose-sc-reservation-classification-902883",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.9152783751487732
+                }
+            }
+        ]
+    },
+    {
+        "name": "Chandrakant Patil",
+        "news": [
+            {
+                "description": "Mr. Kesarkar has come under a lot of flak from the opposition, which has demanded his sacking. Shiv Sena (UBT) chief Uddhav Thackeray hit out at him saying, \u201cThis means a new tender will be floated to build a new structure and there will be a scam again\u201d",
+                "link": "https://www.deccanchronicle.com/news/politics/kesarkar-says-his-something-good-will-come-out-statement-was-misinterpreted-1819771",
+                "sentiment": {
+                    "label": "negative",
+                    "score": 0.680662214756012
+                }
+            },
+            {
+                "description": "As Maharashtra prepares for assembly elections, political leaders in Pune are turning to religious tourism as a means to connect with voters",
+                "link": "https://www.hindustantimes.com/cities/pune-news/ahead-of-assembly-polls-politicians-wooing-voters-with-free-religious-tours-101724785281353.html",
+                "sentiment": {
+                    "label": "neutral",
+                    "score": 0.8886328339576721
+                }
+            }
+        ]
+    }
+]
