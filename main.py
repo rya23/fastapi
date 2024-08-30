@@ -6,7 +6,7 @@ import json
 
 app = FastAPI()
 
-with open("sample.json", "r", encoding="utf-8") as file:
+with open("merge_data.json", "r", encoding="utf-8") as file:
     ministers_data = json.load(file)
 
 origins = ["*"]
